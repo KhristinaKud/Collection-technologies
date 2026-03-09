@@ -1,0 +1,1001 @@
+product_id,product_name,category,cost_price
+100,Amazon Product 100,Fashion,381.62
+101,Amazon Product 101,Home & Kitchen,314.19
+102,Amazon Product 102,Books,64.78
+103,Amazon Product 103,Books,176.16
+104,Amazon Product 104,Home & Kitchen,51.58
+105,Amazon Product 105,Home & Kitchen,234.96
+106,Amazon Product 106,Electronics,329.35
+107,Amazon Product 107,Beauty,265.04
+108,Amazon Product 108,Home & Kitchen,98.12
+109,Amazon Product 109,Home & Kitchen,196.79
+110,Amazon Product 110,Books,305.98
+111,Amazon Product 111,Beauty,25.6
+112,Amazon Product 112,Books,75.12
+113,Amazon Product 113,Home & Kitchen,326.11
+114,Amazon Product 114,Books,289.38
+115,Amazon Product 115,Electronics,254.47
+116,Amazon Product 116,Home & Kitchen,299.42
+117,Amazon Product 117,Fashion,385.15
+118,Amazon Product 118,Fashion,295.51
+119,Amazon Product 119,Home & Kitchen,190.36
+120,Amazon Product 120,Fashion,163.5
+121,Amazon Product 121,Beauty,472.83
+122,Amazon Product 122,Books,182.3
+123,Amazon Product 123,Beauty,68.77
+124,Amazon Product 124,Fashion,276.14
+125,Amazon Product 125,Home & Kitchen,14.84
+126,Amazon Product 126,Electronics,184.92
+127,Amazon Product 127,Books,443.69
+128,Amazon Product 128,Electronics,440.25
+129,Amazon Product 129,Fashion,18.85
+130,Amazon Product 130,Home & Kitchen,6.68
+131,Amazon Product 131,Beauty,280.61
+132,Amazon Product 132,Beauty,160.12
+133,Amazon Product 133,Beauty,73.1
+134,Amazon Product 134,Electronics,364.45
+135,Amazon Product 135,Books,268.36
+136,Amazon Product 136,Home & Kitchen,238.34
+137,Amazon Product 137,Fashion,260.24
+138,Amazon Product 138,Electronics,167.37
+139,Amazon Product 139,Books,466.85
+140,Amazon Product 140,Books,85.29
+141,Amazon Product 141,Home & Kitchen,254.25
+142,Amazon Product 142,Beauty,228.98
+143,Amazon Product 143,Fashion,315.41
+144,Amazon Product 144,Fashion,271.37
+145,Amazon Product 145,Home & Kitchen,195.7
+146,Amazon Product 146,Home & Kitchen,92.68
+147,Amazon Product 147,Beauty,317.87
+148,Amazon Product 148,Beauty,385.26
+149,Amazon Product 149,Fashion,344.7
+150,Amazon Product 150,Beauty,158.68
+151,Amazon Product 151,Fashion,204.45
+152,Amazon Product 152,Home & Kitchen,87.49
+153,Amazon Product 153,Fashion,144.85
+154,Amazon Product 154,Home & Kitchen,270.68
+155,Amazon Product 155,Home & Kitchen,26.51
+156,Amazon Product 156,Home & Kitchen,464.18
+157,Amazon Product 157,Books,382.32
+158,Amazon Product 158,Books,422.45
+159,Amazon Product 159,Beauty,131.77
+160,Amazon Product 160,Electronics,82.58
+161,Amazon Product 161,Beauty,385.98
+162,Amazon Product 162,Electronics,337.13
+163,Amazon Product 163,Home & Kitchen,340.45
+164,Amazon Product 164,Electronics,305.58
+165,Amazon Product 165,Books,444.47
+166,Amazon Product 166,Home & Kitchen,214.59
+167,Amazon Product 167,Fashion,242.39
+168,Amazon Product 168,Home & Kitchen,130.87
+169,Amazon Product 169,Books,9.0
+170,Amazon Product 170,Books,173.4
+171,Amazon Product 171,Books,252.94
+172,Amazon Product 172,Fashion,124.17
+173,Amazon Product 173,Electronics,184.96
+174,Amazon Product 174,Fashion,367.69
+175,Amazon Product 175,Beauty,208.42
+176,Amazon Product 176,Beauty,445.17
+177,Amazon Product 177,Beauty,498.56
+178,Amazon Product 178,Fashion,82.12
+179,Amazon Product 179,Electronics,38.44
+180,Amazon Product 180,Home & Kitchen,146.92
+181,Amazon Product 181,Fashion,346.63
+182,Amazon Product 182,Books,357.56
+183,Amazon Product 183,Beauty,148.57
+184,Amazon Product 184,Beauty,314.43
+185,Amazon Product 185,Electronics,403.37
+186,Amazon Product 186,Books,122.31
+187,Amazon Product 187,Beauty,170.67
+188,Amazon Product 188,Home & Kitchen,208.36
+189,Amazon Product 189,Fashion,262.18
+190,Amazon Product 190,Home & Kitchen,251.44
+191,Amazon Product 191,Beauty,169.18
+192,Amazon Product 192,Beauty,84.05
+193,Amazon Product 193,Fashion,219.64
+194,Amazon Product 194,Beauty,226.48
+195,Amazon Product 195,Electronics,42.15
+196,Amazon Product 196,Fashion,273.23
+197,Amazon Product 197,Beauty,261.01
+198,Amazon Product 198,Electronics,305.13
+199,Amazon Product 199,Electronics,188.26
+200,Amazon Product 200,Home & Kitchen,266.64
+201,Amazon Product 201,Home & Kitchen,176.35
+202,Amazon Product 202,Fashion,473.35
+203,Amazon Product 203,Electronics,281.19
+204,Amazon Product 204,Electronics,41.06
+205,Amazon Product 205,Books,332.44
+206,Amazon Product 206,Beauty,178.11
+207,Amazon Product 207,Fashion,144.16
+208,Amazon Product 208,Electronics,145.32
+209,Amazon Product 209,Books,114.13
+210,Amazon Product 210,Fashion,288.84
+211,Amazon Product 211,Fashion,101.94
+212,Amazon Product 212,Electronics,83.23
+213,Amazon Product 213,Fashion,467.06
+214,Amazon Product 214,Electronics,429.09
+215,Amazon Product 215,Books,320.55
+216,Amazon Product 216,Beauty,214.21
+217,Amazon Product 217,Home & Kitchen,21.26
+218,Amazon Product 218,Fashion,277.42
+219,Amazon Product 219,Home & Kitchen,100.09
+220,Amazon Product 220,Home & Kitchen,203.61
+221,Amazon Product 221,Electronics,205.71
+222,Amazon Product 222,Beauty,42.22
+223,Amazon Product 223,Books,16.78
+224,Amazon Product 224,Beauty,251.03
+225,Amazon Product 225,Home & Kitchen,236.0
+226,Amazon Product 226,Home & Kitchen,185.45
+227,Amazon Product 227,Home & Kitchen,185.8
+228,Amazon Product 228,Electronics,223.11
+229,Amazon Product 229,Home & Kitchen,493.84
+230,Amazon Product 230,Fashion,339.02
+231,Amazon Product 231,Fashion,225.03
+232,Amazon Product 232,Fashion,412.1
+233,Amazon Product 233,Electronics,479.05
+234,Amazon Product 234,Electronics,207.4
+235,Amazon Product 235,Fashion,62.26
+236,Amazon Product 236,Electronics,412.19
+237,Amazon Product 237,Beauty,467.74
+238,Amazon Product 238,Home & Kitchen,112.5
+239,Amazon Product 239,Electronics,210.36
+240,Amazon Product 240,Electronics,179.75
+241,Amazon Product 241,Beauty,54.51
+242,Amazon Product 242,Electronics,430.28
+243,Amazon Product 243,Beauty,470.59
+244,Amazon Product 244,Electronics,470.52
+245,Amazon Product 245,Electronics,175.15
+246,Amazon Product 246,Books,103.4
+247,Amazon Product 247,Electronics,172.83
+248,Amazon Product 248,Home & Kitchen,498.91
+249,Amazon Product 249,Home & Kitchen,136.79
+250,Amazon Product 250,Electronics,264.22
+251,Amazon Product 251,Beauty,77.99
+252,Amazon Product 252,Beauty,438.33
+253,Amazon Product 253,Fashion,75.68
+254,Amazon Product 254,Beauty,62.85
+255,Amazon Product 255,Home & Kitchen,57.35
+256,Amazon Product 256,Beauty,341.85
+257,Amazon Product 257,Beauty,408.13
+258,Amazon Product 258,Fashion,18.04
+259,Amazon Product 259,Home & Kitchen,228.77
+260,Amazon Product 260,Fashion,250.51
+261,Amazon Product 261,Home & Kitchen,49.85
+262,Amazon Product 262,Fashion,149.61
+263,Amazon Product 263,Beauty,463.45
+264,Amazon Product 264,Fashion,58.94
+265,Amazon Product 265,Books,103.21
+266,Amazon Product 266,Beauty,426.5
+267,Amazon Product 267,Home & Kitchen,93.62
+268,Amazon Product 268,Fashion,339.2
+269,Amazon Product 269,Beauty,430.26
+270,Amazon Product 270,Home & Kitchen,435.8
+271,Amazon Product 271,Beauty,361.81
+272,Amazon Product 272,Electronics,265.97
+273,Amazon Product 273,Books,16.54
+274,Amazon Product 274,Home & Kitchen,414.76
+275,Amazon Product 275,Books,374.25
+276,Amazon Product 276,Fashion,88.24
+277,Amazon Product 277,Electronics,450.44
+278,Amazon Product 278,Fashion,353.67
+279,Amazon Product 279,Books,190.95
+280,Amazon Product 280,Fashion,248.13
+281,Amazon Product 281,Beauty,180.01
+282,Amazon Product 282,Fashion,156.39
+283,Amazon Product 283,Beauty,126.0
+284,Amazon Product 284,Books,13.31
+285,Amazon Product 285,Books,151.86
+286,Amazon Product 286,Fashion,478.72
+287,Amazon Product 287,Beauty,359.99
+288,Amazon Product 288,Fashion,163.21
+289,Amazon Product 289,Fashion,266.93
+290,Amazon Product 290,Electronics,453.44
+291,Amazon Product 291,Electronics,274.02
+292,Amazon Product 292,Books,112.49
+293,Amazon Product 293,Beauty,14.43
+294,Amazon Product 294,Books,482.13
+295,Amazon Product 295,Fashion,491.82
+296,Amazon Product 296,Books,111.94
+297,Amazon Product 297,Fashion,143.23
+298,Amazon Product 298,Beauty,495.39
+299,Amazon Product 299,Electronics,312.64
+300,Amazon Product 300,Fashion,495.51
+301,Amazon Product 301,Home & Kitchen,139.55
+302,Amazon Product 302,Fashion,339.19
+303,Amazon Product 303,Home & Kitchen,129.82
+304,Amazon Product 304,Fashion,7.04
+305,Amazon Product 305,Electronics,245.43
+306,Amazon Product 306,Books,461.04
+307,Amazon Product 307,Electronics,258.84
+308,Amazon Product 308,Home & Kitchen,412.54
+309,Amazon Product 309,Beauty,372.09
+310,Amazon Product 310,Home & Kitchen,65.63
+311,Amazon Product 311,Home & Kitchen,226.53
+312,Amazon Product 312,Beauty,446.96
+313,Amazon Product 313,Books,375.31
+314,Amazon Product 314,Home & Kitchen,82.05
+315,Amazon Product 315,Electronics,326.4
+316,Amazon Product 316,Home & Kitchen,48.89
+317,Amazon Product 317,Books,148.1
+318,Amazon Product 318,Books,307.18
+319,Amazon Product 319,Fashion,400.14
+320,Amazon Product 320,Fashion,110.49
+321,Amazon Product 321,Fashion,132.65
+322,Amazon Product 322,Electronics,143.49
+323,Amazon Product 323,Beauty,393.48
+324,Amazon Product 324,Electronics,43.8
+325,Amazon Product 325,Books,65.24
+326,Amazon Product 326,Fashion,429.53
+327,Amazon Product 327,Beauty,204.29
+328,Amazon Product 328,Electronics,430.72
+329,Amazon Product 329,Fashion,280.28
+330,Amazon Product 330,Beauty,474.12
+331,Amazon Product 331,Books,468.16
+332,Amazon Product 332,Books,496.93
+333,Amazon Product 333,Books,286.8
+334,Amazon Product 334,Fashion,265.02
+335,Amazon Product 335,Books,35.85
+336,Amazon Product 336,Fashion,159.92
+337,Amazon Product 337,Home & Kitchen,95.72
+338,Amazon Product 338,Fashion,435.67
+339,Amazon Product 339,Electronics,113.55
+340,Amazon Product 340,Fashion,129.94
+341,Amazon Product 341,Beauty,73.79
+342,Amazon Product 342,Electronics,161.7
+343,Amazon Product 343,Electronics,332.25
+344,Amazon Product 344,Beauty,25.77
+345,Amazon Product 345,Books,431.64
+346,Amazon Product 346,Electronics,64.84
+347,Amazon Product 347,Electronics,381.18
+348,Amazon Product 348,Fashion,90.88
+349,Amazon Product 349,Electronics,347.22
+350,Amazon Product 350,Beauty,46.4
+351,Amazon Product 351,Beauty,230.61
+352,Amazon Product 352,Books,63.58
+353,Amazon Product 353,Electronics,448.61
+354,Amazon Product 354,Books,404.3
+355,Amazon Product 355,Home & Kitchen,50.94
+356,Amazon Product 356,Fashion,471.52
+357,Amazon Product 357,Home & Kitchen,56.92
+358,Amazon Product 358,Fashion,307.39
+359,Amazon Product 359,Beauty,11.25
+360,Amazon Product 360,Electronics,402.1
+361,Amazon Product 361,Beauty,41.9
+362,Amazon Product 362,Electronics,157.34
+363,Amazon Product 363,Books,108.14
+364,Amazon Product 364,Beauty,364.92
+365,Amazon Product 365,Electronics,274.14
+366,Amazon Product 366,Electronics,367.39
+367,Amazon Product 367,Beauty,84.68
+368,Amazon Product 368,Fashion,13.04
+369,Amazon Product 369,Books,38.51
+370,Amazon Product 370,Books,460.3
+371,Amazon Product 371,Electronics,127.69
+372,Amazon Product 372,Home & Kitchen,475.03
+373,Amazon Product 373,Home & Kitchen,27.89
+374,Amazon Product 374,Beauty,466.81
+375,Amazon Product 375,Beauty,370.87
+376,Amazon Product 376,Books,388.69
+377,Amazon Product 377,Home & Kitchen,226.8
+378,Amazon Product 378,Home & Kitchen,402.85
+379,Amazon Product 379,Beauty,356.94
+380,Amazon Product 380,Beauty,29.72
+381,Amazon Product 381,Electronics,413.51
+382,Amazon Product 382,Home & Kitchen,459.94
+383,Amazon Product 383,Electronics,443.49
+384,Amazon Product 384,Electronics,166.93
+385,Amazon Product 385,Fashion,453.97
+386,Amazon Product 386,Electronics,240.6
+387,Amazon Product 387,Books,170.37
+388,Amazon Product 388,Fashion,490.14
+389,Amazon Product 389,Fashion,313.11
+390,Amazon Product 390,Home & Kitchen,24.22
+391,Amazon Product 391,Beauty,416.8
+392,Amazon Product 392,Fashion,209.32
+393,Amazon Product 393,Home & Kitchen,292.54
+394,Amazon Product 394,Electronics,412.23
+395,Amazon Product 395,Home & Kitchen,53.2
+396,Amazon Product 396,Beauty,148.32
+397,Amazon Product 397,Fashion,124.24
+398,Amazon Product 398,Home & Kitchen,132.2
+399,Amazon Product 399,Electronics,326.29
+400,Amazon Product 400,Beauty,409.08
+401,Amazon Product 401,Beauty,279.13
+402,Amazon Product 402,Books,395.45
+403,Amazon Product 403,Fashion,114.09
+404,Amazon Product 404,Books,457.43
+405,Amazon Product 405,Home & Kitchen,450.58
+406,Amazon Product 406,Home & Kitchen,146.1
+407,Amazon Product 407,Beauty,490.48
+408,Amazon Product 408,Home & Kitchen,61.42
+409,Amazon Product 409,Electronics,181.81
+410,Amazon Product 410,Electronics,46.89
+411,Amazon Product 411,Books,155.38
+412,Amazon Product 412,Fashion,302.42
+413,Amazon Product 413,Fashion,383.1
+414,Amazon Product 414,Beauty,8.05
+415,Amazon Product 415,Electronics,29.04
+416,Amazon Product 416,Home & Kitchen,125.09
+417,Amazon Product 417,Books,101.86
+418,Amazon Product 418,Fashion,496.35
+419,Amazon Product 419,Home & Kitchen,463.23
+420,Amazon Product 420,Beauty,265.74
+421,Amazon Product 421,Fashion,89.82
+422,Amazon Product 422,Books,359.32
+423,Amazon Product 423,Fashion,71.46
+424,Amazon Product 424,Books,210.12
+425,Amazon Product 425,Beauty,284.08
+426,Amazon Product 426,Books,259.16
+427,Amazon Product 427,Beauty,317.02
+428,Amazon Product 428,Electronics,488.24
+429,Amazon Product 429,Home & Kitchen,207.9
+430,Amazon Product 430,Home & Kitchen,453.48
+431,Amazon Product 431,Electronics,248.02
+432,Amazon Product 432,Home & Kitchen,105.96
+433,Amazon Product 433,Home & Kitchen,218.93
+434,Amazon Product 434,Home & Kitchen,428.13
+435,Amazon Product 435,Beauty,494.59
+436,Amazon Product 436,Books,428.81
+437,Amazon Product 437,Books,364.37
+438,Amazon Product 438,Beauty,127.25
+439,Amazon Product 439,Fashion,444.14
+440,Amazon Product 440,Beauty,331.18
+441,Amazon Product 441,Beauty,434.36
+442,Amazon Product 442,Home & Kitchen,233.73
+443,Amazon Product 443,Beauty,359.87
+444,Amazon Product 444,Home & Kitchen,93.99
+445,Amazon Product 445,Electronics,15.62
+446,Amazon Product 446,Electronics,467.98
+447,Amazon Product 447,Home & Kitchen,29.25
+448,Amazon Product 448,Fashion,106.35
+449,Amazon Product 449,Electronics,53.03
+450,Amazon Product 450,Beauty,462.41
+451,Amazon Product 451,Home & Kitchen,420.14
+452,Amazon Product 452,Books,225.48
+453,Amazon Product 453,Electronics,149.41
+454,Amazon Product 454,Home & Kitchen,69.42
+455,Amazon Product 455,Beauty,18.53
+456,Amazon Product 456,Fashion,142.21
+457,Amazon Product 457,Fashion,131.7
+458,Amazon Product 458,Home & Kitchen,301.01
+459,Amazon Product 459,Home & Kitchen,437.82
+460,Amazon Product 460,Books,153.08
+461,Amazon Product 461,Beauty,199.6
+462,Amazon Product 462,Beauty,373.61
+463,Amazon Product 463,Books,179.57
+464,Amazon Product 464,Home & Kitchen,397.14
+465,Amazon Product 465,Books,5.76
+466,Amazon Product 466,Electronics,257.66
+467,Amazon Product 467,Fashion,237.09
+468,Amazon Product 468,Fashion,101.89
+469,Amazon Product 469,Electronics,153.77
+470,Amazon Product 470,Fashion,352.03
+471,Amazon Product 471,Fashion,198.93
+472,Amazon Product 472,Electronics,272.45
+473,Amazon Product 473,Electronics,72.54
+474,Amazon Product 474,Electronics,398.21
+475,Amazon Product 475,Electronics,474.7
+476,Amazon Product 476,Fashion,348.23
+477,Amazon Product 477,Home & Kitchen,133.85
+478,Amazon Product 478,Fashion,267.72
+479,Amazon Product 479,Home & Kitchen,485.99
+480,Amazon Product 480,Beauty,121.93
+481,Amazon Product 481,Books,331.44
+482,Amazon Product 482,Books,122.49
+483,Amazon Product 483,Beauty,204.69
+484,Amazon Product 484,Books,71.47
+485,Amazon Product 485,Books,359.71
+486,Amazon Product 486,Electronics,87.87
+487,Amazon Product 487,Home & Kitchen,417.71
+488,Amazon Product 488,Books,361.65
+489,Amazon Product 489,Fashion,466.1
+490,Amazon Product 490,Electronics,300.04
+491,Amazon Product 491,Home & Kitchen,12.86
+492,Amazon Product 492,Electronics,420.74
+493,Amazon Product 493,Electronics,156.91
+494,Amazon Product 494,Beauty,233.19
+495,Amazon Product 495,Beauty,406.12
+496,Amazon Product 496,Beauty,290.81
+497,Amazon Product 497,Books,334.47
+498,Amazon Product 498,Electronics,58.37
+499,Amazon Product 499,Beauty,468.79
+500,Amazon Product 500,Beauty,256.99
+501,Amazon Product 501,Beauty,235.09
+502,Amazon Product 502,Fashion,455.28
+503,Amazon Product 503,Beauty,93.26
+504,Amazon Product 504,Home & Kitchen,338.15
+505,Amazon Product 505,Books,284.3
+506,Amazon Product 506,Electronics,310.59
+507,Amazon Product 507,Beauty,324.42
+508,Amazon Product 508,Electronics,466.29
+509,Amazon Product 509,Home & Kitchen,125.31
+510,Amazon Product 510,Electronics,217.24
+511,Amazon Product 511,Electronics,249.73
+512,Amazon Product 512,Home & Kitchen,365.79
+513,Amazon Product 513,Fashion,293.98
+514,Amazon Product 514,Fashion,468.71
+515,Amazon Product 515,Beauty,377.25
+516,Amazon Product 516,Fashion,414.71
+517,Amazon Product 517,Home & Kitchen,472.58
+518,Amazon Product 518,Beauty,390.08
+519,Amazon Product 519,Fashion,249.37
+520,Amazon Product 520,Books,218.54
+521,Amazon Product 521,Beauty,444.6
+522,Amazon Product 522,Fashion,236.23
+523,Amazon Product 523,Books,41.8
+524,Amazon Product 524,Home & Kitchen,110.67
+525,Amazon Product 525,Electronics,192.71
+526,Amazon Product 526,Beauty,446.58
+527,Amazon Product 527,Fashion,367.29
+528,Amazon Product 528,Home & Kitchen,373.85
+529,Amazon Product 529,Fashion,100.31
+530,Amazon Product 530,Home & Kitchen,171.02
+531,Amazon Product 531,Books,333.18
+532,Amazon Product 532,Home & Kitchen,30.47
+533,Amazon Product 533,Home & Kitchen,108.3
+534,Amazon Product 534,Fashion,127.52
+535,Amazon Product 535,Fashion,471.52
+536,Amazon Product 536,Books,222.1
+537,Amazon Product 537,Fashion,100.13
+538,Amazon Product 538,Electronics,217.41
+539,Amazon Product 539,Beauty,400.21
+540,Amazon Product 540,Fashion,59.17
+541,Amazon Product 541,Electronics,9.28
+542,Amazon Product 542,Fashion,186.35
+543,Amazon Product 543,Home & Kitchen,238.17
+544,Amazon Product 544,Beauty,363.64
+545,Amazon Product 545,Fashion,170.14
+546,Amazon Product 546,Home & Kitchen,425.44
+547,Amazon Product 547,Beauty,365.57
+548,Amazon Product 548,Electronics,425.07
+549,Amazon Product 549,Books,211.66
+550,Amazon Product 550,Fashion,224.62
+551,Amazon Product 551,Home & Kitchen,87.91
+552,Amazon Product 552,Beauty,359.42
+553,Amazon Product 553,Home & Kitchen,452.1
+554,Amazon Product 554,Books,391.12
+555,Amazon Product 555,Electronics,130.14
+556,Amazon Product 556,Fashion,127.17
+557,Amazon Product 557,Fashion,295.84
+558,Amazon Product 558,Beauty,8.64
+559,Amazon Product 559,Beauty,225.73
+560,Amazon Product 560,Electronics,322.86
+561,Amazon Product 561,Beauty,128.61
+562,Amazon Product 562,Home & Kitchen,289.03
+563,Amazon Product 563,Fashion,272.2
+564,Amazon Product 564,Fashion,257.87
+565,Amazon Product 565,Fashion,63.75
+566,Amazon Product 566,Electronics,10.92
+567,Amazon Product 567,Fashion,439.71
+568,Amazon Product 568,Beauty,452.04
+569,Amazon Product 569,Books,291.99
+570,Amazon Product 570,Beauty,66.63
+571,Amazon Product 571,Books,457.45
+572,Amazon Product 572,Beauty,109.0
+573,Amazon Product 573,Books,346.61
+574,Amazon Product 574,Fashion,124.23
+575,Amazon Product 575,Home & Kitchen,212.2
+576,Amazon Product 576,Home & Kitchen,145.43
+577,Amazon Product 577,Electronics,303.96
+578,Amazon Product 578,Home & Kitchen,127.46
+579,Amazon Product 579,Beauty,25.34
+580,Amazon Product 580,Fashion,234.34
+581,Amazon Product 581,Fashion,325.5
+582,Amazon Product 582,Books,24.8
+583,Amazon Product 583,Electronics,197.41
+584,Amazon Product 584,Home & Kitchen,474.36
+585,Amazon Product 585,Beauty,308.47
+586,Amazon Product 586,Fashion,214.65
+587,Amazon Product 587,Beauty,401.08
+588,Amazon Product 588,Electronics,496.96
+589,Amazon Product 589,Home & Kitchen,330.05
+590,Amazon Product 590,Fashion,349.1
+591,Amazon Product 591,Books,233.49
+592,Amazon Product 592,Fashion,347.95
+593,Amazon Product 593,Beauty,483.21
+594,Amazon Product 594,Beauty,19.65
+595,Amazon Product 595,Home & Kitchen,360.76
+596,Amazon Product 596,Home & Kitchen,259.18
+597,Amazon Product 597,Home & Kitchen,134.27
+598,Amazon Product 598,Books,217.46
+599,Amazon Product 599,Books,378.18
+600,Amazon Product 600,Books,450.95
+601,Amazon Product 601,Fashion,388.93
+602,Amazon Product 602,Books,382.97
+603,Amazon Product 603,Beauty,398.44
+604,Amazon Product 604,Beauty,425.8
+605,Amazon Product 605,Books,279.28
+606,Amazon Product 606,Home & Kitchen,269.95
+607,Amazon Product 607,Home & Kitchen,490.43
+608,Amazon Product 608,Fashion,321.4
+609,Amazon Product 609,Beauty,66.63
+610,Amazon Product 610,Fashion,423.25
+611,Amazon Product 611,Books,246.79
+612,Amazon Product 612,Books,17.62
+613,Amazon Product 613,Beauty,382.31
+614,Amazon Product 614,Beauty,314.46
+615,Amazon Product 615,Electronics,341.89
+616,Amazon Product 616,Electronics,51.4
+617,Amazon Product 617,Books,463.46
+618,Amazon Product 618,Beauty,355.77
+619,Amazon Product 619,Fashion,363.3
+620,Amazon Product 620,Books,468.42
+621,Amazon Product 621,Home & Kitchen,77.45
+622,Amazon Product 622,Beauty,121.87
+623,Amazon Product 623,Beauty,39.68
+624,Amazon Product 624,Electronics,226.68
+625,Amazon Product 625,Fashion,250.48
+626,Amazon Product 626,Books,395.51
+627,Amazon Product 627,Electronics,457.31
+628,Amazon Product 628,Books,167.65
+629,Amazon Product 629,Books,20.55
+630,Amazon Product 630,Books,240.15
+631,Amazon Product 631,Books,340.3
+632,Amazon Product 632,Electronics,323.26
+633,Amazon Product 633,Books,143.31
+634,Amazon Product 634,Electronics,288.52
+635,Amazon Product 635,Electronics,472.77
+636,Amazon Product 636,Books,463.05
+637,Amazon Product 637,Beauty,293.83
+638,Amazon Product 638,Fashion,452.93
+639,Amazon Product 639,Beauty,316.28
+640,Amazon Product 640,Home & Kitchen,81.75
+641,Amazon Product 641,Electronics,6.02
+642,Amazon Product 642,Books,442.75
+643,Amazon Product 643,Beauty,124.69
+644,Amazon Product 644,Books,350.94
+645,Amazon Product 645,Fashion,298.4
+646,Amazon Product 646,Books,452.69
+647,Amazon Product 647,Electronics,496.51
+648,Amazon Product 648,Electronics,434.26
+649,Amazon Product 649,Fashion,304.04
+650,Amazon Product 650,Electronics,399.3
+651,Amazon Product 651,Books,101.62
+652,Amazon Product 652,Beauty,361.32
+653,Amazon Product 653,Home & Kitchen,52.82
+654,Amazon Product 654,Electronics,495.45
+655,Amazon Product 655,Home & Kitchen,383.18
+656,Amazon Product 656,Fashion,96.36
+657,Amazon Product 657,Fashion,386.55
+658,Amazon Product 658,Books,196.91
+659,Amazon Product 659,Books,497.65
+660,Amazon Product 660,Home & Kitchen,292.4
+661,Amazon Product 661,Electronics,371.96
+662,Amazon Product 662,Electronics,441.76
+663,Amazon Product 663,Books,322.73
+664,Amazon Product 664,Beauty,121.53
+665,Amazon Product 665,Books,288.01
+666,Amazon Product 666,Beauty,157.57
+667,Amazon Product 667,Beauty,357.5
+668,Amazon Product 668,Fashion,499.81
+669,Amazon Product 669,Fashion,465.06
+670,Amazon Product 670,Beauty,379.76
+671,Amazon Product 671,Fashion,61.39
+672,Amazon Product 672,Books,494.84
+673,Amazon Product 673,Electronics,354.19
+674,Amazon Product 674,Electronics,124.62
+675,Amazon Product 675,Books,39.69
+676,Amazon Product 676,Electronics,267.86
+677,Amazon Product 677,Home & Kitchen,336.01
+678,Amazon Product 678,Home & Kitchen,240.24
+679,Amazon Product 679,Beauty,321.24
+680,Amazon Product 680,Electronics,365.84
+681,Amazon Product 681,Fashion,440.08
+682,Amazon Product 682,Books,146.05
+683,Amazon Product 683,Home & Kitchen,30.26
+684,Amazon Product 684,Fashion,460.85
+685,Amazon Product 685,Fashion,276.68
+686,Amazon Product 686,Beauty,159.69
+687,Amazon Product 687,Beauty,333.32
+688,Amazon Product 688,Electronics,39.31
+689,Amazon Product 689,Beauty,150.96
+690,Amazon Product 690,Electronics,148.76
+691,Amazon Product 691,Books,49.39
+692,Amazon Product 692,Fashion,435.06
+693,Amazon Product 693,Home & Kitchen,381.29
+694,Amazon Product 694,Fashion,117.66
+695,Amazon Product 695,Beauty,90.21
+696,Amazon Product 696,Books,375.97
+697,Amazon Product 697,Books,172.19
+698,Amazon Product 698,Fashion,119.41
+699,Amazon Product 699,Fashion,267.56
+700,Amazon Product 700,Fashion,28.12
+701,Amazon Product 701,Fashion,284.73
+702,Amazon Product 702,Books,411.06
+703,Amazon Product 703,Home & Kitchen,378.49
+704,Amazon Product 704,Home & Kitchen,237.39
+705,Amazon Product 705,Fashion,127.31
+706,Amazon Product 706,Books,68.42
+707,Amazon Product 707,Electronics,215.22
+708,Amazon Product 708,Books,105.23
+709,Amazon Product 709,Beauty,66.03
+710,Amazon Product 710,Books,435.0
+711,Amazon Product 711,Books,169.33
+712,Amazon Product 712,Fashion,337.11
+713,Amazon Product 713,Fashion,393.72
+714,Amazon Product 714,Beauty,380.15
+715,Amazon Product 715,Books,263.88
+716,Amazon Product 716,Electronics,54.75
+717,Amazon Product 717,Books,35.19
+718,Amazon Product 718,Books,347.3
+719,Amazon Product 719,Fashion,331.33
+720,Amazon Product 720,Home & Kitchen,444.15
+721,Amazon Product 721,Books,254.95
+722,Amazon Product 722,Beauty,167.85
+723,Amazon Product 723,Books,63.76
+724,Amazon Product 724,Beauty,413.87
+725,Amazon Product 725,Fashion,62.99
+726,Amazon Product 726,Electronics,67.6
+727,Amazon Product 727,Beauty,319.67
+728,Amazon Product 728,Home & Kitchen,210.14
+729,Amazon Product 729,Home & Kitchen,254.17
+730,Amazon Product 730,Books,311.83
+731,Amazon Product 731,Electronics,407.24
+732,Amazon Product 732,Home & Kitchen,379.42
+733,Amazon Product 733,Fashion,136.91
+734,Amazon Product 734,Electronics,193.76
+735,Amazon Product 735,Books,56.02
+736,Amazon Product 736,Beauty,456.37
+737,Amazon Product 737,Books,281.27
+738,Amazon Product 738,Home & Kitchen,403.55
+739,Amazon Product 739,Fashion,136.98
+740,Amazon Product 740,Home & Kitchen,307.89
+741,Amazon Product 741,Electronics,207.76
+742,Amazon Product 742,Electronics,407.28
+743,Amazon Product 743,Fashion,133.46
+744,Amazon Product 744,Books,454.98
+745,Amazon Product 745,Home & Kitchen,325.56
+746,Amazon Product 746,Beauty,489.84
+747,Amazon Product 747,Electronics,152.82
+748,Amazon Product 748,Electronics,125.65
+749,Amazon Product 749,Home & Kitchen,397.57
+750,Amazon Product 750,Books,215.37
+751,Amazon Product 751,Beauty,468.83
+752,Amazon Product 752,Electronics,241.98
+753,Amazon Product 753,Fashion,211.18
+754,Amazon Product 754,Electronics,221.63
+755,Amazon Product 755,Beauty,237.56
+756,Amazon Product 756,Home & Kitchen,127.41
+757,Amazon Product 757,Home & Kitchen,131.99
+758,Amazon Product 758,Books,318.74
+759,Amazon Product 759,Fashion,73.49
+760,Amazon Product 760,Electronics,443.96
+761,Amazon Product 761,Home & Kitchen,250.0
+762,Amazon Product 762,Beauty,176.89
+763,Amazon Product 763,Electronics,466.71
+764,Amazon Product 764,Fashion,272.82
+765,Amazon Product 765,Beauty,138.37
+766,Amazon Product 766,Fashion,463.19
+767,Amazon Product 767,Fashion,75.97
+768,Amazon Product 768,Electronics,358.41
+769,Amazon Product 769,Fashion,494.84
+770,Amazon Product 770,Books,204.87
+771,Amazon Product 771,Fashion,152.92
+772,Amazon Product 772,Beauty,368.82
+773,Amazon Product 773,Home & Kitchen,34.21
+774,Amazon Product 774,Fashion,59.22
+775,Amazon Product 775,Beauty,398.35
+776,Amazon Product 776,Beauty,327.08
+777,Amazon Product 777,Beauty,242.11
+778,Amazon Product 778,Books,261.81
+779,Amazon Product 779,Fashion,380.58
+780,Amazon Product 780,Beauty,245.02
+781,Amazon Product 781,Fashion,57.72
+782,Amazon Product 782,Fashion,114.99
+783,Amazon Product 783,Beauty,496.03
+784,Amazon Product 784,Electronics,194.53
+785,Amazon Product 785,Beauty,461.34
+786,Amazon Product 786,Books,155.21
+787,Amazon Product 787,Beauty,120.72
+788,Amazon Product 788,Home & Kitchen,230.37
+789,Amazon Product 789,Fashion,420.7
+790,Amazon Product 790,Electronics,35.32
+791,Amazon Product 791,Electronics,238.21
+792,Amazon Product 792,Home & Kitchen,168.54
+793,Amazon Product 793,Home & Kitchen,272.31
+794,Amazon Product 794,Beauty,63.11
+795,Amazon Product 795,Electronics,286.14
+796,Amazon Product 796,Beauty,277.86
+797,Amazon Product 797,Beauty,275.1
+798,Amazon Product 798,Electronics,469.44
+799,Amazon Product 799,Electronics,469.3
+800,Amazon Product 800,Books,100.94
+801,Amazon Product 801,Books,439.69
+802,Amazon Product 802,Home & Kitchen,182.68
+803,Amazon Product 803,Books,325.0
+804,Amazon Product 804,Electronics,104.52
+805,Amazon Product 805,Beauty,424.21
+806,Amazon Product 806,Electronics,88.45
+807,Amazon Product 807,Books,439.91
+808,Amazon Product 808,Electronics,215.25
+809,Amazon Product 809,Books,9.74
+810,Amazon Product 810,Beauty,329.21
+811,Amazon Product 811,Books,469.56
+812,Amazon Product 812,Home & Kitchen,455.19
+813,Amazon Product 813,Home & Kitchen,217.88
+814,Amazon Product 814,Home & Kitchen,17.61
+815,Amazon Product 815,Home & Kitchen,132.01
+816,Amazon Product 816,Fashion,454.6
+817,Amazon Product 817,Home & Kitchen,120.2
+818,Amazon Product 818,Books,22.38
+819,Amazon Product 819,Books,239.22
+820,Amazon Product 820,Books,134.92
+821,Amazon Product 821,Home & Kitchen,407.35
+822,Amazon Product 822,Beauty,363.32
+823,Amazon Product 823,Electronics,257.98
+824,Amazon Product 824,Electronics,273.58
+825,Amazon Product 825,Beauty,303.65
+826,Amazon Product 826,Electronics,60.18
+827,Amazon Product 827,Books,281.45
+828,Amazon Product 828,Electronics,45.75
+829,Amazon Product 829,Books,363.01
+830,Amazon Product 830,Electronics,168.25
+831,Amazon Product 831,Books,125.14
+832,Amazon Product 832,Fashion,89.91
+833,Amazon Product 833,Beauty,203.35
+834,Amazon Product 834,Electronics,357.43
+835,Amazon Product 835,Electronics,493.76
+836,Amazon Product 836,Electronics,172.92
+837,Amazon Product 837,Books,105.05
+838,Amazon Product 838,Beauty,483.11
+839,Amazon Product 839,Fashion,323.22
+840,Amazon Product 840,Home & Kitchen,318.34
+841,Amazon Product 841,Fashion,237.96
+842,Amazon Product 842,Books,280.62
+843,Amazon Product 843,Fashion,407.19
+844,Amazon Product 844,Electronics,459.7
+845,Amazon Product 845,Home & Kitchen,207.73
+846,Amazon Product 846,Home & Kitchen,79.61
+847,Amazon Product 847,Beauty,6.07
+848,Amazon Product 848,Beauty,183.76
+849,Amazon Product 849,Fashion,363.09
+850,Amazon Product 850,Home & Kitchen,295.53
+851,Amazon Product 851,Electronics,193.97
+852,Amazon Product 852,Fashion,64.94
+853,Amazon Product 853,Books,122.5
+854,Amazon Product 854,Books,8.94
+855,Amazon Product 855,Books,40.02
+856,Amazon Product 856,Home & Kitchen,452.95
+857,Amazon Product 857,Books,64.71
+858,Amazon Product 858,Fashion,227.56
+859,Amazon Product 859,Beauty,222.03
+860,Amazon Product 860,Beauty,102.31
+861,Amazon Product 861,Fashion,180.73
+862,Amazon Product 862,Beauty,156.8
+863,Amazon Product 863,Beauty,131.56
+864,Amazon Product 864,Books,6.23
+865,Amazon Product 865,Electronics,196.29
+866,Amazon Product 866,Beauty,345.61
+867,Amazon Product 867,Fashion,56.18
+868,Amazon Product 868,Books,421.77
+869,Amazon Product 869,Fashion,462.07
+870,Amazon Product 870,Fashion,217.77
+871,Amazon Product 871,Electronics,199.8
+872,Amazon Product 872,Electronics,474.53
+873,Amazon Product 873,Electronics,490.23
+874,Amazon Product 874,Home & Kitchen,114.79
+875,Amazon Product 875,Home & Kitchen,369.16
+876,Amazon Product 876,Books,104.91
+877,Amazon Product 877,Home & Kitchen,301.6
+878,Amazon Product 878,Books,139.81
+879,Amazon Product 879,Fashion,217.34
+880,Amazon Product 880,Fashion,20.31
+881,Amazon Product 881,Beauty,490.87
+882,Amazon Product 882,Beauty,258.36
+883,Amazon Product 883,Beauty,102.81
+884,Amazon Product 884,Beauty,496.67
+885,Amazon Product 885,Electronics,317.84
+886,Amazon Product 886,Electronics,155.82
+887,Amazon Product 887,Home & Kitchen,350.96
+888,Amazon Product 888,Fashion,114.86
+889,Amazon Product 889,Books,395.74
+890,Amazon Product 890,Electronics,301.76
+891,Amazon Product 891,Fashion,341.57
+892,Amazon Product 892,Home & Kitchen,284.13
+893,Amazon Product 893,Fashion,212.19
+894,Amazon Product 894,Books,98.54
+895,Amazon Product 895,Fashion,401.42
+896,Amazon Product 896,Home & Kitchen,73.57
+897,Amazon Product 897,Fashion,65.25
+898,Amazon Product 898,Books,407.53
+899,Amazon Product 899,Fashion,237.78
+900,Amazon Product 900,Home & Kitchen,207.24
+901,Amazon Product 901,Fashion,204.81
+902,Amazon Product 902,Electronics,7.91
+903,Amazon Product 903,Home & Kitchen,58.36
+904,Amazon Product 904,Fashion,346.84
+905,Amazon Product 905,Fashion,400.97
+906,Amazon Product 906,Books,471.45
+907,Amazon Product 907,Fashion,342.33
+908,Amazon Product 908,Home & Kitchen,94.08
+909,Amazon Product 909,Electronics,51.32
+910,Amazon Product 910,Beauty,382.39
+911,Amazon Product 911,Electronics,424.85
+912,Amazon Product 912,Beauty,312.27
+913,Amazon Product 913,Electronics,42.41
+914,Amazon Product 914,Home & Kitchen,318.96
+915,Amazon Product 915,Electronics,428.91
+916,Amazon Product 916,Home & Kitchen,214.74
+917,Amazon Product 917,Beauty,211.5
+918,Amazon Product 918,Electronics,442.59
+919,Amazon Product 919,Electronics,475.61
+920,Amazon Product 920,Books,415.54
+921,Amazon Product 921,Beauty,31.3
+922,Amazon Product 922,Electronics,53.56
+923,Amazon Product 923,Electronics,344.42
+924,Amazon Product 924,Electronics,415.34
+925,Amazon Product 925,Beauty,242.99
+926,Amazon Product 926,Beauty,52.27
+927,Amazon Product 927,Books,418.66
+928,Amazon Product 928,Beauty,45.11
+929,Amazon Product 929,Electronics,245.02
+930,Amazon Product 930,Books,97.78
+931,Amazon Product 931,Books,171.96
+932,Amazon Product 932,Electronics,139.93
+933,Amazon Product 933,Fashion,415.74
+934,Amazon Product 934,Electronics,229.18
+935,Amazon Product 935,Beauty,116.64
+936,Amazon Product 936,Beauty,386.6
+937,Amazon Product 937,Beauty,284.19
+938,Amazon Product 938,Books,338.22
+939,Amazon Product 939,Fashion,392.2
+940,Amazon Product 940,Fashion,282.1
+941,Amazon Product 941,Fashion,363.32
+942,Amazon Product 942,Beauty,399.63
+943,Amazon Product 943,Fashion,415.62
+944,Amazon Product 944,Books,405.64
+945,Amazon Product 945,Fashion,149.76
+946,Amazon Product 946,Beauty,219.17
+947,Amazon Product 947,Electronics,45.59
+948,Amazon Product 948,Books,314.04
+949,Amazon Product 949,Fashion,419.18
+950,Amazon Product 950,Books,342.33
+951,Amazon Product 951,Electronics,421.36
+952,Amazon Product 952,Electronics,6.55
+953,Amazon Product 953,Home & Kitchen,86.73
+954,Amazon Product 954,Beauty,296.07
+955,Amazon Product 955,Home & Kitchen,11.18
+956,Amazon Product 956,Beauty,55.87
+957,Amazon Product 957,Electronics,445.81
+958,Amazon Product 958,Fashion,408.16
+959,Amazon Product 959,Fashion,458.61
+960,Amazon Product 960,Books,75.89
+961,Amazon Product 961,Home & Kitchen,198.74
+962,Amazon Product 962,Beauty,469.16
+963,Amazon Product 963,Electronics,85.08
+964,Amazon Product 964,Beauty,171.56
+965,Amazon Product 965,Home & Kitchen,325.05
+966,Amazon Product 966,Home & Kitchen,348.2
+967,Amazon Product 967,Electronics,464.29
+968,Amazon Product 968,Fashion,256.13
+969,Amazon Product 969,Beauty,352.89
+970,Amazon Product 970,Home & Kitchen,85.94
+971,Amazon Product 971,Books,286.26
+972,Amazon Product 972,Electronics,474.03
+973,Amazon Product 973,Beauty,23.83
+974,Amazon Product 974,Beauty,18.69
+975,Amazon Product 975,Beauty,230.42
+976,Amazon Product 976,Books,212.29
+977,Amazon Product 977,Fashion,124.98
+978,Amazon Product 978,Electronics,193.98
+979,Amazon Product 979,Fashion,114.64
+980,Amazon Product 980,Fashion,209.78
+981,Amazon Product 981,Beauty,164.14
+982,Amazon Product 982,Beauty,488.27
+983,Amazon Product 983,Books,412.41
+984,Amazon Product 984,Fashion,344.02
+985,Amazon Product 985,Beauty,481.72
+986,Amazon Product 986,Beauty,121.13
+987,Amazon Product 987,Beauty,383.41
+988,Amazon Product 988,Books,244.2
+989,Amazon Product 989,Beauty,402.31
+990,Amazon Product 990,Home & Kitchen,125.08
+991,Amazon Product 991,Books,24.45
+992,Amazon Product 992,Books,210.06
+993,Amazon Product 993,Beauty,385.16
+994,Amazon Product 994,Beauty,298.47
+995,Amazon Product 995,Beauty,215.84
+996,Amazon Product 996,Home & Kitchen,59.1
+997,Amazon Product 997,Fashion,369.66
+998,Amazon Product 998,Books,367.8
+999,Amazon Product 999,Electronics,292.99
+1000,Amazon Product 1000,Electronics,453.58
+1001,Amazon Product 1001,Books,220.71
+1002,Amazon Product 1002,Books,128.44
+1003,Amazon Product 1003,Beauty,38.81
+1004,Amazon Product 1004,Beauty,155.65
+1005,Amazon Product 1005,Books,85.7
+1006,Amazon Product 1006,Beauty,338.98
+1007,Amazon Product 1007,Home & Kitchen,57.57
+1008,Amazon Product 1008,Books,464.61
+1009,Amazon Product 1009,Fashion,46.42
+1010,Amazon Product 1010,Fashion,448.64
+1011,Amazon Product 1011,Electronics,349.8
+1012,Amazon Product 1012,Beauty,331.63
+1013,Amazon Product 1013,Fashion,50.86
+1014,Amazon Product 1014,Books,419.1
+1015,Amazon Product 1015,Beauty,480.41
+1016,Amazon Product 1016,Books,149.31
+1017,Amazon Product 1017,Electronics,86.26
+1018,Amazon Product 1018,Beauty,385.31
+1019,Amazon Product 1019,Electronics,251.11
+1020,Amazon Product 1020,Electronics,436.72
+1021,Amazon Product 1021,Fashion,377.16
+1022,Amazon Product 1022,Electronics,95.27
+1023,Amazon Product 1023,Home & Kitchen,425.71
+1024,Amazon Product 1024,Books,150.61
+1025,Amazon Product 1025,Electronics,110.31
+1026,Amazon Product 1026,Books,197.4
+1027,Amazon Product 1027,Books,439.12
+1028,Amazon Product 1028,Beauty,21.96
+1029,Amazon Product 1029,Beauty,86.27
+1030,Amazon Product 1030,Beauty,245.87
+1031,Amazon Product 1031,Home & Kitchen,410.01
+1032,Amazon Product 1032,Beauty,237.03
+1033,Amazon Product 1033,Beauty,263.55
+1034,Amazon Product 1034,Beauty,314.73
+1035,Amazon Product 1035,Beauty,235.83
+1036,Amazon Product 1036,Electronics,190.8
+1037,Amazon Product 1037,Electronics,342.35
+1038,Amazon Product 1038,Electronics,187.88
+1039,Amazon Product 1039,Books,494.93
+1040,Amazon Product 1040,Fashion,207.55
+1041,Amazon Product 1041,Electronics,314.59
+1042,Amazon Product 1042,Beauty,283.9
+1043,Amazon Product 1043,Fashion,186.56
+1044,Amazon Product 1044,Home & Kitchen,140.77
+1045,Amazon Product 1045,Beauty,318.4
+1046,Amazon Product 1046,Fashion,280.19
+1047,Amazon Product 1047,Fashion,83.26
+1048,Amazon Product 1048,Fashion,395.35
+1049,Amazon Product 1049,Beauty,138.4
+1050,Amazon Product 1050,Books,330.52
+1051,Amazon Product 1051,Electronics,420.07
+1052,Amazon Product 1052,Electronics,204.14
+1053,Amazon Product 1053,Books,155.75
+1054,Amazon Product 1054,Books,466.99
+1055,Amazon Product 1055,Home & Kitchen,102.74
+1056,Amazon Product 1056,Fashion,175.39
+1057,Amazon Product 1057,Electronics,351.15
+1058,Amazon Product 1058,Books,47.58
+1059,Amazon Product 1059,Fashion,197.78
+1060,Amazon Product 1060,Books,467.07
+1061,Amazon Product 1061,Fashion,260.63
+1062,Amazon Product 1062,Books,472.46
+1063,Amazon Product 1063,Home & Kitchen,123.4
+1064,Amazon Product 1064,Home & Kitchen,36.17
+1065,Amazon Product 1065,Fashion,33.64
+1066,Amazon Product 1066,Beauty,411.6
+1067,Amazon Product 1067,Electronics,478.88
+1068,Amazon Product 1068,Beauty,228.17
+1069,Amazon Product 1069,Beauty,24.98
+1070,Amazon Product 1070,Fashion,86.44
+1071,Amazon Product 1071,Beauty,187.86
+1072,Amazon Product 1072,Home & Kitchen,203.01
+1073,Amazon Product 1073,Beauty,123.1
+1074,Amazon Product 1074,Electronics,245.16
+1075,Amazon Product 1075,Electronics,341.56
+1076,Amazon Product 1076,Beauty,55.24
+1077,Amazon Product 1077,Beauty,401.47
+1078,Amazon Product 1078,Home & Kitchen,373.71
+1079,Amazon Product 1079,Fashion,11.22
+1080,Amazon Product 1080,Fashion,248.16
+1081,Amazon Product 1081,Electronics,278.12
+1082,Amazon Product 1082,Home & Kitchen,139.81
+1083,Amazon Product 1083,Books,356.06
+1084,Amazon Product 1084,Electronics,483.37
+1085,Amazon Product 1085,Home & Kitchen,418.37
+1086,Amazon Product 1086,Beauty,231.93
+1087,Amazon Product 1087,Beauty,335.23
+1088,Amazon Product 1088,Books,75.96
+1089,Amazon Product 1089,Beauty,483.24
+1090,Amazon Product 1090,Home & Kitchen,429.12
+1091,Amazon Product 1091,Home & Kitchen,186.34
+1092,Amazon Product 1092,Beauty,305.8
+1093,Amazon Product 1093,Electronics,148.41
+1094,Amazon Product 1094,Home & Kitchen,327.62
+1095,Amazon Product 1095,Books,491.73
+1096,Amazon Product 1096,Books,226.16
+1097,Amazon Product 1097,Home & Kitchen,170.54
+1098,Amazon Product 1098,Electronics,279.95
+1099,Amazon Product 1099,Home & Kitchen,457.37
