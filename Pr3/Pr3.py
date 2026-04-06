@@ -11,7 +11,7 @@ df = pd.DataFrame({
     'power_factor': np.random.uniform(0.7, 1.0, n),
     'hours': np.random.uniform(0.1, 1.0, n)
 })
-csv_filename = "energy_dataset.csv"
+csv_filename = "energ_dataset.csv"
 df.to_csv(csv_filename, index=False)
 
 #  Спосіб через eval()
