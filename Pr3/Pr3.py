@@ -4,14 +4,14 @@ import numexpr as ne
 import time
 
 np.random.seed(0)
-n = 1_000_000
+n = 100000
 df = pd.DataFrame({
     'voltage': np.random.uniform(210, 240, n),
     'current': np.random.uniform(0, 30, n),
     'power_factor': np.random.uniform(0.7, 1.0, n),
     'hours': np.random.uniform(0.1, 1.0, n)
 })
-csv_filename = "energ_dataset.csv"
+csv_filename = "energy_dataset.csv"
 df.to_csv(csv_filename, index=False)
 
 #  Спосіб через eval()
