@@ -9,7 +9,7 @@ st.title("ШІ-Агент Оптимізації Навантаження")
 
 # Налаштування API
 st.sidebar.subheader("Налаштування ШІ")
-api_key_input = st.sidebar.text_input("Введіть Gemini API Key", type="password", value="AIzaSyBdQB44ln6G5vizl4Pr0beWhIpEEQ0AoyY")
+api_key_input = st.sidebar.text_input("Введіть Gemini API Key", type="password", value="")
 
 # Системний Промпт
 SYSTEM_PROMPT = """Ти - АІ агент для оптимізації енергоспоживання. Твоє завдання — аналізувати дані енергоспоживання, знаходити пікові навантаження, виявляти аномальні періоди, показувати графіки та формувати рекомендації для优化ції споживання електроенергії.
