@@ -105,26 +105,19 @@ if uploaded_file is not None:
             with st.spinner("Агент обробляє запит..."):
                 gemini_response = get_gemini_analysis(prompt, data_summary, api_key_input)
                 st.write(gemini_response)
-
-                # Створюємо словник для збереження
+                # Створення словника для збереження
                 msg_to_save = {"role": "assistant", "content": gemini_response}
-
                 if "пік" in prompt_lower or "пікові" in prompt_lower:
                     base_chart_df = df.copy().set_index(time_col)
                     plot_df = pd.DataFrame(index=base_chart_df.index)
                     plot_df["Базове споживання"] = base_chart_df[val_col].astype(float)
-
-                    # КЛЮЧОВЕ ВИПРАВЛЕННЯ: Задаємо тип float і порожнє значення як NaN
+                    #  тип float і порожнє значення як NaN
                     plot_df["Пікові точки"] = np.nan
                     plot_df["Пікові точки"] = plot_df["Пікові точки"].astype(float)
-
-                    # Безпечно мапимо значення
                     plot_df.loc[peaks_df[time_col], "Пікові точки"] = peaks_df[val_col].values
-
                     st.line_chart(plot_df)
                     msg_to_save["chart_type"] = "line"
                     msg_to_save["chart_data"] = plot_df
-
                 elif "аномал" in prompt_lower or "точка" in prompt_lower:
                     if not anomalies_df.empty:
                         plot_data = anomalies_df.copy().set_index(time_col)[val_col]
@@ -133,8 +126,7 @@ if uploaded_file is not None:
                         msg_to_save["chart_data"] = plot_data
                     else:
                         st.info("Математичних аномалій для побудови точкового графіка не виявлено.")
-
-                # Зберігаємо в історію в самому кінці успішного блоку
+                # Зберігання в історію
                 st.session_state.messages.append(msg_to_save)
 else:
-    st.info("💡 Будь ласка, завантажте CSV файл з даними про енергоспоживання у боковій панелі.")
+    st.info("Будь ласка, завантажте CSV файл з даними про енергоспоживання у боковій панелі.")
